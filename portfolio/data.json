@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Minos", 
+    "category": "Mix Stone",
+    "image": "assets/images/resources/project-img2-1.jpg",
+    "url": "/pdf_viewer.html?pdf_url=minos"
+  },
+  {
+    "id": 2,
+    "title": "Nuoera",
+    "category": "Mix Stone",
+    "image": "assets/images/resources/project-img2-2.jpg",
+    "url": "/pdf_viewer.html?pdf_url=nuoera"
+  },
+  {
+    "id": 3,
+    "title": "Quartz",
+    "category": "Mix Stone",
+    "image": "assets/images/resources/project-img2-3.jpg",
+    "url": "/pdf_viewer.html?pdf_url=quartz"
+  },
+  {
+    "id": 4, 
+    "title": "PVC Panels",
+    "category": "PVC",
+    "image": "assets/images/resources/project-img2-4.jpg",
+    "url": "/pdf_viewer.html?pdf_url=minos"
+  },
+  {
+    "id": 5,
+    "title": "Solid vinyl",
+    "category": "Interior",
+    "image": "assets/images/resources/project-img2-5.jpg",
+    "url": "/pdf_viewer.html?pdf_url=minos"
+  },
+  {
+    "id": 6,
+    "title": "Ceiling wallpaper",
+    "category": "ceiling wallpaper",
+    "image": "assets/images/resources/project-img2-6.jpg",
+    "url": "/pdf_viewer.html?pdf_url=minos"
+  }
+]
