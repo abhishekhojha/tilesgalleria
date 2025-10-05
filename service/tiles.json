@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "Living Room",
+    "top_title": "Living Room",
+    "title_1": "Living Room",
+    "title_2": "Living Room",
+    "services_list": [
+      { "name": "Room Wallpaper", "url": "room-wallpaper" },
+      { "name": "Interior Design", "url": "interior-design" },
+      { "name": "Wall Sheets", "url": "wall-sheets" },
+      { "name": "Canvas Printing", "url": "canvas-printing" },
+      { "name": "Door Wallpaper", "url": "door-wallpaper" },
+      { "name": "Wall Painting", "url": "wall-painting" }
+    ],
+    "description": [
+      "Your living room is the heart of your home – a place where you relax, entertain, and create lasting memories with loved ones. Elevate the style and ambiance of this central space with the timeless beauty and versatility of tiles..",
+      "Tiles offer endless possibilities for enhancing the aesthetics of your living room. Whether you prefer a sleek and modern look or a more rustic and cozy feel, there's a tile design to suit every taste and decor style. From classic ceramic tiles to elegant marble, from contemporary porcelain to trendy wood-look tiles, the options are truly limitless.."
+    ],
+    "features": ["Ceramic Tiles", "Porcelain Tiles", "Natural Stone Tiles"],
+    "galleryImages": [
+      "img/single-service-1-1.jpg",
+      "img/single-service-1-2.jpg"
+    ]
+  }
+]
