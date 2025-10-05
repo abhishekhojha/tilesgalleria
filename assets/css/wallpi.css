@@ -12316,7 +12316,7 @@ body.megamenu-popup-active .mobile-nav__content {
   border-radius: 50%;
   font-size: 40px;
   line-height: 1;
-  color: var(--wallpi-base, #d18548);
+  color: #d18548;
   background-color: var(--wallpi-black, #2a2826);
   display: flex;
   align-items: center;
