@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Living Room Tiles",
+    "slug": "living-room-tiles",
+    "top_title": "Living Room Tiles",
+    "title_1": "Transform Your Living Room with Our Exquisite Tiles",
+    "title_2": "Elevate Your Living Room Aesthetics",
+    "description": [
+      "Your living room is the heart of your home – a place where you relax, entertain, and create lasting memories with loved ones. Elevate the style and ambiance of this central space with the timeless beauty and versatility of tiles.",
+      "Tiles offer endless possibilities for enhancing the aesthetics of your living room. Whether you prefer a sleek and modern look or a more rustic and cozy feel, there's a tile design to suit every taste and decor style. From classic ceramic tiles to elegant marble, from contemporary porcelain to trendy wood-look tiles, the options are truly limitless."
+    ],
+    "image": "assets/images/resources/services2-1.jpg",
+    "features": [
+      "Ceramic Tiles",
+      "Porcelain Tiles",
+      "Natural Stone Tiles"
+    ],
+    "galleryImages": [
+      "img/single-service-1-1.jpg",
+      "img/single-service-1-2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bathroom Tiles",
+    "slug": "bathroom-tiles",
+    "top_title": "Bathroom Tiles",
+    "title_1": "Enhance Your Bathroom with Stylish Tiles",
+    "title_2": "Water-Resistant and Elegant",
+    "description": [
+      "Bathroom tiles are designed to withstand moisture while providing a sleek and modern look. They are perfect for creating a clean and elegant bathroom space.",
+      "Choose from a variety of anti-slip surfaces, mold-resistant materials, and elegant finishes to transform your bathroom into a luxurious retreat."
+    ],
+    "image": "assets/images/resources/services2-2.jpg",
+    "features": [
+      "Anti-slip surface",
+      "Mold-resistant",
+      "Elegant finishes"
+    ],
+    "galleryImages": [
+      "img/single-service-2-1.jpg",
+      "img/single-service-2-2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Kitchen Tiles",
+    "slug": "kitchen-tiles",
+    "top_title": "Kitchen Tiles",
+    "title_1": "Modern and Easy-to-Clean Kitchen Tiles",
+    "title_2": "Perfect for Walls and Floors",
+    "description": [
+      "Kitchen tiles are both functional and stylish, offering heat resistance and easy cleaning. They are ideal for busy kitchen environments.",
+      "Explore a wide range of designs, from classic to contemporary, to complement your kitchen decor."
+    ],
+    "image": "assets/images/resources/services2-3.jpg",
+    "features": [
+      "Heat-resistant",
+      "Stain-proof",
+      "Wide range of designs"
+    ],
+    "galleryImages": [
+      "img/single-service-3-1.jpg",
+      "img/single-service-3-2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pool Tiles",
+    "slug": "pool-tiles",
+    "top_title": "Pool Tiles",
+    "title_1": "Beautiful and Durable Pool Tiles",
+    "title_2": "Enhance Your Pool Area",
+    "description": [
+      "Pool tiles are designed to withstand chlorine and water exposure while maintaining their vibrant colors.",
+      "Choose slip-resistant and non-fading tiles to create a safe and visually appealing pool area."
+    ],
+    "image": "assets/images/resources/services2-4.jpg",
+    "features": [
+      "Chlorine-resistant",
+      "Non-fading colors",
+      "Slip-resistant"
+    ],
+    "galleryImages": [
+      "img/single-service-4-1.jpg",
+      "img/single-service-4-2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Basin Tiles",
+    "slug": "basin-tiles",
+    "top_title": "Basin Tiles",
+    "title_1": "Elegant Tiles for Basins and Wash Areas",
+    "title_2": "Add a Touch of Luxury",
+    "description": [
+      "Basin tiles are waterproof and available in glossy and matte options, perfect for adding a touch of luxury to your wash areas.",
+      "Customize your basin tiles with various sizes and finishes to suit your design preferences."
+    ],
+    "image": "assets/images/resources/services2-5.jpg",
+    "features": [
+      "Waterproof",
+      "Glossy and matte options",
+      "Customizable sizes"
+    ],
+    "galleryImages": [
+      "img/single-service-5-1.jpg",
+      "img/single-service-5-2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bath Tub Tiles",
+    "slug": "bath-tub-tiles",
+    "top_title": "Bath Tub Tiles",
+    "title_1": "Luxurious Tiles for Bath Tubs",
+    "title_2": "Create a Spa-Like Experience",
+    "description": [
+      "Bath tub tiles offer a smooth texture and durable material, perfect for creating a spa-like experience at home.",
+      "Available in unique patterns, these tiles add elegance and functionality to your bath tub area."
+    ],
+    "image": "assets/images/resources/services2-6.jpg",
+    "features": [
+      "Smooth texture",
+      "Durable material",
+      "Available in unique patterns"
+    ],
+    "galleryImages": [
+      "img/single-service-6-1.jpg",
+      "img/single-service-6-2.jpg"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "tiles",
+    "title": "Tiles",
+    "image": "assets/images/resources/services2-1.jpg",
+    "subCategories": [
+      {
+        "slug": "living-room-tiles",
+        "title": "Living Room Tiles",
+        "image": "assets/images/resources/services2-1.jpg"
+      },
+      {
+        "slug": "bathroom-tiles",
+        "title": "Bathroom Tiles",
+        "image": "assets/images/resources/services2-2.jpg"
+      },
+      {
+        "slug": "kitchen-tiles",
+        "title": "Kitchen Tiles",
+        "image": "assets/images/resources/services2-3.jpg"
+      },
+      {
+        "slug": "pool-tiles",
+        "title": "Pool Tiles",
+        "image": "assets/images/resources/services2-4.jpg"
+      },
+      {
+        "slug": "basin-tiles",
+        "title": "Basin Tiles",
+        "image": "assets/images/resources/services2-5.jpg"
+      },
+      {
+        "slug": "bath-tub-tiles",
+        "title": "Bath Tub Tiles",
+        "image": "assets/images/resources/services2-6.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "vinyl",
+    "title": "Vinyl",
+    "image": "assets/images/resources/services2-2.jpg"
+  },
+  {
+    "slug": "laminate",
+    "title": "Laminate",
+    "image": "assets/images/resources/services2-3.jpg"
+  },
+  {
+    "slug": "hybrid-flooring",
+    "title": "Hybrid Flooring",
+    "image": "assets/images/resources/services2-4.jpg"
+  }
+]
