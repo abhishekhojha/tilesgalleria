@@ -497,6 +497,8 @@
     <script>
       // Function to create portfolio item HTML
       function createPortfolioItem(item, delay) {
+        let mainUrl = window.location.origin;
+        
         return `
           <div class="col-xl-4 col-lg-6">
             <div class="project-one__item wow fadeInUp" data-wow-delay="${delay}ms">
@@ -508,9 +510,9 @@
                 <div class="project-one__item__bg">
                   <strong class="project-one__item__text">${item.category}</strong>
                   <h4 class="project-one__item__heading">
-                    <a href="${item.url}" target="_blank">${item.title}</a>
+                    <a href="${mainUrl}${item.url}" target="_blank">${item.title}</a>
                   </h4>
-                  <a href="${item.url}" target="_blank" class="project-one__item__right-arrow">
+                  <a href="${mainUrl}${item.url}" target="_blank" class="project-one__item__right-arrow">
                     <i class="icon-arrow-small-right"></i>
                   </a>
                 </div>
