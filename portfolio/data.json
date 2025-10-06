@@ -3,42 +3,49 @@
     "id": 1,
     "title": "Minos", 
     "category": "Mix Stone",
-    "image": "assets/images/resources/project-img2-1.jpg",
+    "image": "assets/images/portfolio/minos.png",
     "url": "/pdf_viewer.html?pdf_url=minos"
   },
   {
     "id": 2,
     "title": "Nuoera",
     "category": "Mix Stone",
-    "image": "assets/images/resources/project-img2-2.jpg",
+    "image": "assets/images/portfolio/nuoera.png",
     "url": "/pdf_viewer.html?pdf_url=nuoera"
   },
   {
     "id": 3,
     "title": "Quartz",
     "category": "Mix Stone",
-    "image": "assets/images/resources/project-img2-3.jpg",
+    "image": "assets/images/portfolio/quartz.png",
     "url": "/pdf_viewer.html?pdf_url=quartz"
   },
   {
     "id": 4, 
-    "title": "PVC Panels",
-    "category": "PVC",
-    "image": "assets/images/resources/project-img2-4.jpg",
-    "url": "/pdf_viewer.html?pdf_url=minos"
+    "title": "Easi",
+    "category": "Easi Plank",
+    "image": "assets/images/portfolio/easi.png",
+    "url": "/pdf_viewer.html?pdf_url=easi"
   },
   {
     "id": 5,
-    "title": "Solid vinyl",
-    "category": "Interior",
-    "image": "assets/images/resources/project-img2-5.jpg",
-    "url": "/pdf_viewer.html?pdf_url=minos"
+    "title": "Hybrid Flooring",
+    "category": "Flooring",
+    "image": "assets/images/portfolio/hybrid.png",
+    "url": "/pdf_viewer.html?pdf_url=catalogue"
   },
   {
     "id": 6,
-    "title": "Ceiling wallpaper",
-    "category": "ceiling wallpaper",
-    "image": "assets/images/resources/project-img2-6.jpg",
-    "url": "/pdf_viewer.html?pdf_url=minos"
+    "title": "SPC",
+    "category": "Flooring",
+    "image": "assets/images/portfolio/spc.png",
+    "url": "/pdf_viewer.html?pdf_url=spc"
+  },
+  {
+    "id": 7,
+    "title": "Laminate",
+    "category": "Laminate",
+    "image": "assets/images/portfolio/laminate.png",
+    "url": "/pdf_viewer.html?pdf_url=laminate"
   }
 ]

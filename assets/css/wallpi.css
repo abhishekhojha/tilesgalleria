@@ -14181,6 +14181,35 @@ body.boxed-wrapper .main-slider-one__carousel.owl-carousel .owl-nav {
 .project-one__row {
   --bs-gutter-x: 0;
 }
+.video-player {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-one__item__image {
+  position: relative;
+  height: 300px; /* Adjust height as needed */
+  overflow: hidden;
+}
+
+.play-button {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.play-button:hover {
+  transform: scale(1.1);
+}
+
+.play-button.playing svg {
+  display: none;
+}
+
+.play-button.playing:before {
+  content: "⏸️";
+  font-size: 24px;
+}
 .project-one__item {
   position: relative;
   padding: 0;
@@ -14411,6 +14440,8 @@ body.boxed-wrapper .main-slider-one__carousel.owl-carousel .owl-nav {
   color: var(--wallpi-text-white, #fff);
 }
 .project-one--two .project-one__item__image > img {
+  height: 600px !important;
+  object-fit: contain;
   transition: all 0.5s ease;
 }
 .project-one--two .project-one__item__info {
