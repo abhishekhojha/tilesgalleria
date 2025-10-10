@@ -14441,7 +14441,7 @@ body.boxed-wrapper .main-slider-one__carousel.owl-carousel .owl-nav {
 }
 .project-one--two .project-one__item__image > img {
   height: 600px !important;
-  object-fit: contain;
+  object-fit: cover;
   transition: all 0.5s ease;
 }
 .project-one--two .project-one__item__info {
